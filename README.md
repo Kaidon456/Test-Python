@@ -3,4 +3,4 @@
  
  
 *Nota*
->los codigod fueron coseguidos de muchas fuentes, sean TikToks, videos de instagram, publicacion.
+>Los codigod fueron coseguidos de muchas fuentes, sean TikToks, videos de instagram, publicaciones, etc.
