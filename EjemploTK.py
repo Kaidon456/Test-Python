@@ -8,7 +8,7 @@ Nombre: EjmploTK.py
 Autor: @mafervicas
 Descripcion: Realiar una busqueda en Wikipedia y regresar en una UI
 Librerias:
-    ->  random = tomar aleatoriamente un numero de los ingresados.
+    -> random = tomar aleatoriamente un numero de los ingresados.
     -> tkinter = generador para la UI.
 """
 #####--------------------------------------------------
