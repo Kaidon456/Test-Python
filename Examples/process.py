@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 ####---------------------------------------------------
 """
-Fecha: 25/04/2021
+Fecha: 13/06/2022
 Nombre: process.py
 Autor: @linkfydev
 Descripcion: Crear un barra de proceso.
