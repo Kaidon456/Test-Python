@@ -1,5 +1,5 @@
 import time
-import tqdm
+from tqdm import tqdm
 
 ####---------------------------------------------------
 """
@@ -15,5 +15,5 @@ Librerias:
 
 print('Barra de ejemplo')
 
-for i in tqdm(range(1000)):
-    time.sleep(0.1)
+for i in tqdm(range(0, 100), desc ="Testing"):
+    time.sleep(.1)
