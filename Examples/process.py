@@ -12,7 +12,6 @@ Librerias:
     -> tqdm = crear la barra en la CLI.
 """
 #####--------------------------------------------------
-
 print('Barra de ejemplo')
 
 for i in tqdm(range(0, 100), desc ="Testing"):
